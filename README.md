@@ -29,3 +29,6 @@ Supported extensions include MP3, AAC, M4A, MP4 audio, OGG, Opus, WMA, WAV, AIFF
 
 Install PyInstaller with `python -m pip install pyinstaller`, then run `pyinstaller --onefile --windowed --name SoundBatch converter.py`. FFmpeg still needs to be installed separately and on PATH.
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
